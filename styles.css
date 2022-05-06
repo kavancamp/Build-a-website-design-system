@@ -6,4 +6,5 @@
 .box1, .box2, .box3 {
     border: solid skyblue;
     padding-left: 10px;
+    margin-bottom: 10px;
 }
