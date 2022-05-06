@@ -22,10 +22,10 @@
 }
 
 .gray {
-    background-color: rgb(128, 128, 128);
+    background-color: #808080;
 }
 .skyblue {
-    background-color: rgb(135, 206, 235);
+    background-color: #87ceeb;
 }
 .mauve {
     background-color: #967A94;
@@ -34,6 +34,6 @@
     background-color: #A2E4B8;;
 }
 .black {
-    background-color: black);
+    background-color: black;
     color: whitesmoke;
 }
