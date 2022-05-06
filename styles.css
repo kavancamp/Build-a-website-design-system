@@ -27,13 +27,13 @@
 .skyblue {
     background-color: rgb(135, 206, 235);
 }
-.purple {
-    background-color: rgb(128, 0, 128);
+.mauve {
+    background-color: #967A94;
 }
 .mintgreen {
-    background-color: rgb(162,228,184);
+    background-color: #A2E4B8;;
 }
 .black {
-    background-color: rgb(0,0,0);
+    background-color: black);
     color: whitesmoke;
 }
