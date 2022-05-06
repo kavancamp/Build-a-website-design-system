@@ -1,4 +1,8 @@
-body {
+.container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+}
+.box1, .box2, .box3 {
+    border: solid skyblue;
 }
