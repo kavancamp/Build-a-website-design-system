@@ -27,7 +27,12 @@
 .skyblue {
     background-color: rgb(135, 206, 235);
 }
-
+.purple {
+    background-color: rgb(128, 0, 128);
+}
+.mintgreen {
+    background-color: rgb(162,228,184);
+}
 .black {
     background-color: rgb(0,0,0);
     color: whitesmoke;
