@@ -17,6 +17,18 @@
 .gothic {
     font-family: 'Pathway Gothic One', sans-serif;
 }
+.pd1, .pd2, .pd3 {
+    font-family: 'Playfair Display', serif;
+}
+
+.pd2 {
+    font-weight: 400;
+    font-style: italic;
+}
+.pd3 {
+    font-weight: 700;
+    font-style: bold italic;
+}
 
 .innerbox2 {
     display: flex;
