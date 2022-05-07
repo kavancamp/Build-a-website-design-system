@@ -13,6 +13,7 @@
 }
 
 .innerbox1{
+    display: flex;
     flex-direction: row;
 }
 
@@ -30,13 +31,30 @@
 }
 .pd3 {
     font-weight: 700;
-    font-style: bold italic;
+    font-style: italic;
 }
 .karla1, .karla2, .karla3 {
     font-family: 'Karla', sans-serif;
 }
 .karla1 {
     font-weight: 200;
+}
+.karla2{
+    weight: 400;
+    font-style: italic;
+}
+.karla3 {
+    font-weight: 700;
+}
+.rb1, .rb2, .rb3 {
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.rb2 {
+    font-weight: 300;
+}
+.rb3 {
+    font-weight: 700;
 }
 .innerbox2 {
     display: flex;
@@ -49,6 +67,7 @@
     width: 200px;
     text-align: center;
     margin-bottom: 20px;
+    padding: 10px;
 }
 
 .gray {
