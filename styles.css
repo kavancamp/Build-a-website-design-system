@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,700;1,400&family=Pathway+Gothic+One&family=Playfair+Display:ital,wght@0,400;1,400;1,700&family=Roboto+Flex:opsz,wght@8..144,100;8..144,400;8..144,700&display=swap');
 
+ /* Fonts */
 .container {
     display: flex;
     flex-direction: column;
@@ -56,6 +57,9 @@
 .rb3 {
     font-weight: 700;
 }
+
+ /* Color Boxes */
+
 .innerbox2 {
     display: flex;
     flex-direction: row;
@@ -86,3 +90,5 @@
     background-color: black;
     color: whitesmoke;
 }
+
+ /* Style */
