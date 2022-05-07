@@ -5,11 +5,13 @@
     flex-direction: column;
     justify-content: center;
 }
+
 .box1, .box2, .box3 {
     border: solid skyblue;
     padding-left: 10px;
     margin-bottom: 10px;
 }
+
 .innerbox1{
     flex-direction: row;
 }
@@ -17,6 +19,7 @@
 .gothic {
     font-family: 'Pathway Gothic One', sans-serif;
 }
+
 .pd1, .pd2, .pd3 {
     font-family: 'Playfair Display', serif;
 }
@@ -29,7 +32,12 @@
     font-weight: 700;
     font-style: bold italic;
 }
-
+.karla1, .karla2, .karla3 {
+    font-family: 'Karla', sans-serif;
+}
+.karla1 {
+    font-weight: 200;
+}
 .innerbox2 {
     display: flex;
     flex-direction: row;
