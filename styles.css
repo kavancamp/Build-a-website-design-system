@@ -7,7 +7,7 @@
     justify-content: center;
 }
 
-.box1, .box2, .box3 {
+.box1, .box2 {
     border: solid skyblue;
     padding-left: 10px;
     margin-bottom: 10px;
@@ -93,4 +93,3 @@
     color: whitesmoke;
 }
 
- /* Style */
