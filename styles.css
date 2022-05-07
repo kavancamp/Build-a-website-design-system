@@ -17,12 +17,10 @@
     flex-direction: row;
     justify-content: center;
 }
-.gothic, .gothic2 {
+.gothic {
     font-family: 'Pathway Gothic One', sans-serif;
 }
-.gothic2 {
-    font-style: bold;
-}
+
 .colorbox {
     border: solid black;
     width: 200px;
